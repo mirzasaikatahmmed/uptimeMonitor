@@ -27,7 +27,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: About
-      href: https://github.com/$OWNER
+      href: https://facebook.com/mirzasaikatahmmed121
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
