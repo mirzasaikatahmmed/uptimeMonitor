@@ -58,19 +58,19 @@
     "url": "https://verifiqabd.com",
     "icon": "https://icons.duckduckgo.com/ip3/verifiqabd.com.ico",
     "slug": "verifiqa-bd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2934,
-    "timeDay": 1564,
-    "timeWeek": 2934,
-    "timeMonth": 2934,
-    "timeYear": 2934,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 3755,
+    "timeDay": 6675,
+    "timeWeek": 3755,
+    "timeMonth": 3755,
+    "timeYear": 3755,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 19
     }
   }
 ]
