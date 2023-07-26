@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 453,
     "timeDay": 519,
-    "timeWeek": 466,
+    "timeWeek": 470,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2123,
     "timeDay": 2137,
-    "timeWeek": 2124,
+    "timeWeek": 2147,
     "timeMonth": 2123,
     "timeYear": 2123,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1662,
     "timeDay": 1536,
-    "timeWeek": 1666,
+    "timeWeek": 1642,
     "timeMonth": 1662,
     "timeYear": 1662,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "https://verifiqabd.com",
     "icon": "https://icons.duckduckgo.com/ip3/verifiqabd.com.ico",
     "slug": "verifiqa-bd",
-    "status": "down",
-    "uptime": "96.29%",
+    "status": "up",
+    "uptime": "95.45%",
     "uptimeDay": "76.29%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.29%",
-    "uptimeYear": "96.29%",
-    "time": 5068,
-    "timeDay": 10648,
-    "timeWeek": 4809,
-    "timeMonth": 5068,
-    "timeYear": 5068,
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "95.45%",
+    "time": 5553,
+    "timeDay": 11664,
+    "timeWeek": 5800,
+    "timeMonth": 5553,
+    "timeYear": 5553,
     "dailyMinutesDown": {
-      "2023-07-26": 66,
+      "2023-07-26": 155,
       "2023-07-25": 307
     }
   }
